@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UnslothLocalPatch</key>
+    <string>2026-11-09-jakes-model-trainer-local</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Jake's Model Trainer uses the microphone you select for local voice dictation and audio recording.</string>
+</dict>
+</plist>
