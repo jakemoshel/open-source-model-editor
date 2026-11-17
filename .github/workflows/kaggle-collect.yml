@@ -48,7 +48,7 @@ jobs:
             secret_name: KAGGLE_API_TOKEN_2
     steps:
       - name: Harden runner (audit)
-        uses: step-security/harden-runner@46b06cea07f9e64621fdf066ba77ac6915163d43
+        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a
         with:
           egress-policy: audit
 
